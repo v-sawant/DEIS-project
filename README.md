@@ -11,6 +11,9 @@ One of the greatest threats to the continued existence of humans is illnesses, l
 
 
 ## Tollgate 1
+The main aim of tollgate 1 is to understand the concepts learnt during the labs and the lectures and utilize them into system modeling.
+
+> System modeling constitutes understanding functional and non-functional requirements; connecting requirements to system design.
 
 ## Tollgate 2
 
