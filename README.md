@@ -10,7 +10,7 @@
 - Support TeX (LaTeX expressions, Based on KaTeX), Flowchart and Sequence Diagram of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 
-#README.md
+# README.md
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg)
 ![](https://img.shields.io/github/forks/pandao/editor.md.svg)
@@ -25,15 +25,15 @@
 
 [TOC]
 
-#Tollgate 1
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
+# Tollgate 1
+## H2 header
+### H3 header
+#### H4 header
+##### H5 header
+###### H6 header
 
-#Tollgate 2
+# Tollgate 2
 
-#Tollgate 3
+# Tollgate 3
 
-#Tollgate 4
+# Tollgate 4
